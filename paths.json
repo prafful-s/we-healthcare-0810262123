@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/tausendp/bbraun/language-masters/en:/",
+    "/content/tausendp/bbraun/language-masters/en/:/en/",
+    "/content/tausendp/bbraun/configuration:/.helix/config.json",
+    "/content/tausendp/bbraun/metadata:/metadata.json",
+    "/content/tausendp/bbraun/redirects:/redirects.json",
+    "/content/tausendp/bbraun/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/tausendp/bbraun/",
+    "/content/dam/tausendp/bbraun/"
   ]
 }
